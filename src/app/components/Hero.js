@@ -40,7 +40,7 @@ export default function Hero() {
               viewport={{ once: false, amount: 0.6 }}
               className="description max-w-[550px] mx-auto xl:mx-0 mb-6 xl:mb-10"
             >
-              Find your ideal ride for any adventure with our direrse range of
+              Find your ideal ride for any adventure with our diverse range of
               affordable and dependable car rentals.
             </motion.p>
             {/* btns */}
